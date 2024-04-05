@@ -1,2 +1,2 @@
-# apigee-proxies
+# APIGEE Proxies
 Sample Apigee Proxies
