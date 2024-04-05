@@ -15,4 +15,4 @@ Apigee architecture consists of three layers:
 The target API for retrieving IP addresses is: https://httpbin.org/ip. This API, configured in this proxy, will return all IP addresses from origin to end.
 
 ## Example Requests
-![postman](proxies/ip-tracking/docs/postman.png)
+![postman](ip-tracking/docs/postman.png)
